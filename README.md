@@ -11,13 +11,11 @@
 >*“Data are just summaries of thousands of stories.”*
 >— Chip & Dan Heath
 
-![Alt Text](https://media.giphy.com/media/O4avgwuWe45os/giphy.gif)
 
-
-My name is Aneesah and I am a current MSc in Data Science student and recent Mathematics graduate (Bachelor's of Science in Mathematical Science), artist and aspiring data scientist! I am currently based in Canada. For more information, feel free to send me an [email](mailto:designsbyanee@gmail.com). I have worked on projects in Python, SAS, R, HTML and SQL. 
+My name is Aneesah and I am a current MSc in Data Science student and recent Mathematics graduate (Bachelor's of Science in Mathematical Science)! I am currently based in Saint Paul, MN. For more information, feel free to send me an [email](mailto:designsbyanee@gmail.com). I have worked on projects in Python, SAS, R, HTML, CSS, Java, AWS and SQL. 
 
 ### What I'm Focused On ♡
 
-I am currently focused on digital and physical art, writing and coding in my spare time. 
+I am currently focused on machine learning, data analysis and art in my spare time.
 
 
