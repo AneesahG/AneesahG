@@ -1,4 +1,4 @@
-![Banner] (assets/Aneesah%20G%20Github.png)
+![Banner](assets/Aneesah%20G%20Github.png)
 
 ## Find me here 🌎
 
