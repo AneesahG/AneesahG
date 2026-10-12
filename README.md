@@ -4,10 +4,9 @@
 
 | Profile
 
-### Hi There! ♡
+### Machine Learning | Data Science | Database Engineering 
 
-My name is Aneesah and I am a current MSc in Data Science student and recent Mathematics graduate (Bachelor's of Science in Mathematical Science)! I am currently based in Saint Paul, MN. I have worked on projects in Python, SAS, R, HTML, CSS, Java, AWS and SQL.
+I am a Data Scientist passionate about cloud data pipelines, telemetry systems and large scale data-ops. 
 
-### What I'm Focused On ♡
+### Skills
 
-I am currently focused on machine learning, data analysis and art in my spare time.
