@@ -1,3 +1,5 @@
+![Banner] (assets/Aneesah%20G%20Github.png)
+
 ## Find me here 🌎
 
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/aneesah-gilani-9880bb24a/)
